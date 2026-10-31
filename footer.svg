@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="110" viewBox="0 0 1100 110">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#38bdf8"/><stop offset=".5" stop-color="#818cf8"/><stop offset="1" stop-color="#2dd4bf"/></linearGradient></defs>
+<rect x="1" y="1" width="1098" height="108" rx="18" fill="none" stroke="url(#g)" stroke-opacity=".65" stroke-width="2"/>
+<text x="550" y="48" text-anchor="middle" fill="#7dd3fc" font-family="Segoe UI,Arial" font-size="23" font-weight="700">KEEP LEARNING. KEEP BUILDING.</text>
+<text x="550" y="78" text-anchor="middle" fill="#94a3b8" font-family="Segoe UI,Arial" font-size="15">One project, one concept, one step at a time.</text>
+</svg>
